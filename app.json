@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Profile Details App",
+    "slug": "profile-details-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f7f6f4"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
