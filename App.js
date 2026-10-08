@@ -15,8 +15,8 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 
 const INITIAL_DETAILS = [
-  { label: 'Name', value: 'Dinuri' },
-  { label: 'Email', value: 'dinuri@nsbm.ac.lk', icon: 'mail' },
+  { label: 'Name', value: 'Amajith Hansaja' },
+  { label: 'Email', value: 'amajith2004@outlook.com', icon: 'mail' },
   { label: 'Points', value: '0', icon: 'star' },
 ];
 
